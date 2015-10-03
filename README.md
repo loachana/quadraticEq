@@ -1,7 +1,7 @@
 <pre>
 git clone https://github.com/lochanaeg/quadraticEq.git
 cd quadraticEq
-python rootsQuest.py
+python rootQuest.py
 </pre>
 
 <strong>What is it</strong><br />
